@@ -1,6 +1,6 @@
 {
   "ABC-123-XYZ": {
-    "user": "exempluUser",
-    "pc_id": "optional"
+    "user": "testuser",
+    "pc_id": null
   }
 }
